@@ -1,4 +1,4 @@
-## Email Marketing Template
+## E-mail Marketing Template
 
 - Biblioteca para escrever HTML e CSS moderno e no final gerar HTML com tabelas para o correto funcionamento em plataformas de e-mail (Outlook)
 
